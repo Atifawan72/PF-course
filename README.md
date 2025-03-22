@@ -1,1 +1,1 @@
-This is the tasks of whole Programming Fundamental course.
+These are the tasks of the whole Programming Fundamental course.
